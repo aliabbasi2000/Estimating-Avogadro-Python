@@ -7,5 +7,5 @@ run the program with these commands:
 
 % python Avogadro.py < displacements-run_1.txt 
 
-% python beadtracker.py 25 180.0 25.0 run_1/*.jpg | python Avogadro.py
+% python beadtracker.py 25 180.0 25.0 frames/*.jpg | python Avogadro.py
 
