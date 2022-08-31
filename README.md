@@ -7,7 +7,9 @@ This library includes glob.py, color.py, luminance.py, stdio.py, stdarray.py, pi
 for more information about libraries visit: https://introcs.cs.princeton.edu/python/home/
 
 ** These libraries use pygame in themselves. so you need to install pygame library using this command:
-pip install pygame
+
+%pip install pygame
+
 
 run the program with these commands:
 
