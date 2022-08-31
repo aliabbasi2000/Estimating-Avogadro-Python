@@ -1,4 +1,4 @@
-# Estimating-Avogadro-Python
+# Estimating-Avogadro
 Processing microscopic images of Polystyrene Beads and tracking the Brownian motion of particles and matching the data to Einstein's model, and estimating Avogadro's number.
 
 This is project of my first year of university so I used standard libraries Introduced by "Programming in Python" Book.
